@@ -100,7 +100,6 @@ define({ entries : {
         "abstract": "Proposes a self-correcting mechanism to handle label noise in negative samples. Adjusts pseudo-labels adaptively, improving robustness of PU classifiers under high-noise conditions.",
         "author": "Zhu, Zhangchi and Wang, Li and Zhao, Peng and Du, Cheng and Zhang, Wenjun",
         "booktitle": "Proc. ACM Int. Conf. Inf. Knowl. Manage. (CIKM)",
-        "doi": "10.1145/3583780.3615075",
         "keywords": "type:method, PU_learning, label_noise, self_correction, robust_classification",
         "title": "Robust Positive-Unlabeled Learning via Noise Negative Sample Self-correction",
         "type": "inproceedings",
